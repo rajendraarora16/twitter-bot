@@ -1,4 +1,10 @@
 # Twitter bot
+
+![Twitter bot][1]
+
+
+  [1]: https://i.stack.imgur.com/ccGXq.png
+
 A fun project which tweets 3000+ similar words in twitter. 
 
 During my college session I created this project to have with my twitter account. Somehow I found this in my machine and uploading here. Hope you will enjoy.
